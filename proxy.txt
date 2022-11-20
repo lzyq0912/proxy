@@ -5801,8 +5801,6 @@ payload:
   - '+.binary.com'
   - '+.bind2.com'
   - '+.bine.me'
-  - '+.bing'
-  - '+.bing.com'
   - '+.bing.net'
   - '+.bingads.com'
   - '+.bingagencyawards.com'
