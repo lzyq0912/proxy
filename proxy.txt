@@ -23,8 +23,6 @@ payload:
   - 'audio-ak-spotify-com.akamaized.net'
   - 'avatargarenanow-a.akamaihd.net'
   - 'az764295.vo.msecnd.net'
-  - 'azure.microsoft.com'
-  - 'azuremarketplace.microsoft.com'
   - 'bcovlive-a.akamaihd.net'
   - 'bcsecure01-a.akamaihd.net'
   - 'beatselectronicsllc.tt.omtrdc.net'
