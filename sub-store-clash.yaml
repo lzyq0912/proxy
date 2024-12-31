@@ -1,7 +1,7 @@
 # url 里填写自己的订阅,名称不能重复
 proxy-providers:
   ProviderAirPort:
-    url: "订阅链接"
+    url: "http://74.48.76.36:3002/w6HxSAEJsPFtzeUPDshN/download/collection/CycloneJoker?target=ClashMeta"
     type: http
     interval: 86400
     health-check:
