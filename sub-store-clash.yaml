@@ -2,7 +2,7 @@
 proxy-providers:
   ProviderAirPort:
     url: "https://sub.cyclonejoker.net/Kj8Nm5pL2xA9vB4cR7tY/download/collection/CycloneJoker?target=ClashMeta"
-    type: https
+    type: http
     interval: 86400
     health-check:
       enable: true
